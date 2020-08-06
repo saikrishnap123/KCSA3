@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[succcessfully done]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68" started-at="2020-08-06T16:51:47 IST" finished-at="2020-08-06T16:51:48 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68" started-at="2020-08-06T16:51:47 IST" finished-at="2020-08-06T16:51:48 IST">
+      <class name="com.actitime.timetrack.Demo">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.actitime.timetrack.Demo@30b8a058]" name="demo" duration-ms="12" started-at="2020-08-06T16:51:48 IST" finished-at="2020-08-06T16:51:48 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[succcessfully done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.actitime.timetrack.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
